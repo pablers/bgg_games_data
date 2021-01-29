@@ -10,4 +10,6 @@ Para facilitar el acceso, visualización y la manipulación de la información c
 
 ---
 
-### 
+### AGRADECIMIENTOS
+
+A  https://www.kaggle.com/caesuric por recoger los datos y hacerlos públicos y a la comunidad BGG https://www.boardgamegeek.com/ por mantener la base de datos.
